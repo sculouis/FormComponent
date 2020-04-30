@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "3.3.4",
-    "jquery": "1.11.2",
+    "jquery": "3.5.0",
     "vue": "^2.5.22"
   },
   "devDependencies": {
